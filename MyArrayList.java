@@ -39,8 +39,8 @@ public class MyArrayList<T> extends AbstractList<T> {
         return this.items[index];
     }
 
-    @SuppressWarnings("Unchecked")
     private void resize() {
+        @SuppressWarnings("unchecked")
         T[] newArray = (T[]) new Object[2 * this.items.length];
         int i = 0;
         for (T item : this.items) {

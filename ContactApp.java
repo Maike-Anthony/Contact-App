@@ -6,7 +6,7 @@ public class ContactApp {
     private MyArrayList<String[]> contacts = new MyArrayList<>();
 
     public ContactApp() {
-        File text = new File("lab3-Maike-Anthony/FacultyStaff.txt");
+        File text = new File("FacultyStaff.txt");
         Scanner myReader;
         try {
             myReader = new Scanner(text);

@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class ContactApp {
-    private MyArrayList<String[]> contacts = new MyArrayList<>();
+    private MyArrayList<Contact> contacts = new MyArrayList<>();
 
     public ContactApp() {
         File text = new File("FacultyStaff.txt");
@@ -14,7 +14,8 @@ public class ContactApp {
             while (myReader.hasNextLine()) {
                 line = myReader.nextLine();
                 String[] splitline = line.split("\t");
-                contacts.add(splitline);
+                Contact professor = new Contact(splitline[0], splitline[1]);
+                contacts.add(professor);
             }
             myReader.close();
         } catch (FileNotFoundException e) {
@@ -31,13 +32,13 @@ public class ContactApp {
         while (true) {
             for (int i = unsortedindex; i < contacts.size(); i++) {
                 if (i == unsortedindex) {
-                    earliestname = contacts.get(i)[0];
-                } else if (earliestname.compareTo(contacts.get(i)[0]) > 0) {
-                    earliestname = contacts.get(i)[0];
+                    earliestname = contacts.get(i).getName();
+                } else if (earliestname.compareTo(contacts.get(i).getName()) > 0) {
+                    earliestname = contacts.get(i).getName();
                     earliestindex = i;
                 }
             }
-            String[] temporary = contacts.remove(unsortedindex);
+            Contact temporary = contacts.remove(unsortedindex);
             contacts.add(unsortedindex, contacts.get(earliestindex-1));
             contacts.remove(earliestindex);
             contacts.add(earliestindex, temporary);
@@ -48,11 +49,11 @@ public class ContactApp {
         }
     }
 
-    public String[] binarysearch(String name) {
+    public Contact binarysearch(String name) {
         int min = 0;
         int max = contacts.size();
         while (min <= max) {
-            String middle = contacts.get((max + min) / 2)[0];
+            String middle = contacts.get((max + min) / 2).getName().toLowerCase();
             if (middle.startsWith(name)) {
                 return contacts.get((max + min) / 2);
             } else if (min == max) {
@@ -71,16 +72,18 @@ public class ContactApp {
         Scanner user = new Scanner(System.in);
         while (true) {
             System.out.println("What name would you like to search for? (Type exit to quit) ");
-            String name = user.next();
+            String name = user.next().toLowerCase();
             if (name.toLowerCase().equals("exit")) {
                 user.close();
                 System.exit(0);
             }
-            String[] answer = app.binarysearch(name);
+            Contact answer = app.binarysearch(name);
             if (answer == null) {
                 System.out.println("Sorry, but we could not find the name: " + name);
+                System.out.println();
             } else {
-                System.out.println("The office found is: " + answer[1] + " (" + answer[0] + ")");
+                System.out.println("The office found is: " + answer.getOffice() + " (" + answer.getName() + ")");
+                System.out.println();
             }
         }
     }

@@ -32,9 +32,9 @@ public class ContactApp {
         while (true) {
             for (int i = unsortedindex; i < contacts.size(); i++) {
                 if (i == unsortedindex) {
-                    earliestname = contacts.get(i).getName();
-                } else if (earliestname.compareTo(contacts.get(i).getName()) > 0) {
-                    earliestname = contacts.get(i).getName();
+                    earliestname = contacts.get(i).getName().toLowerCase();
+                } else if (earliestname.compareTo(contacts.get(i).getName().toLowerCase()) > 0) {
+                    earliestname = contacts.get(i).getName().toLowerCase();
                     earliestindex = i;
                 }
             }

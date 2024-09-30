@@ -1,30 +1,309 @@
-Anderson, Riley	Library Hall 201
-Patel, Samira	Campus Center 102
-Reynolds, Max	Research Lab 308
-Kim, Yuna	Heritage Hall 214
-Chen, Leo	Arts Building 305
-Edwards, Sofia	Science Annex 220
-Mitchell, Ava	Discovery Hall 417
-Ramirez, Carlos	Cultural Center 145
-Liu, Anya	Technology Building 325
-Johnson, Derek	Innovation Hub 204
-Clark, Mia	Faculty Hall 319
-Davis, Jordan	Multimedia Center 117
-White, Eliana	West Hall 128
-Nguyen, Minh	North Wing 303
-Parker, Jade	South Building 101
-Hall, Simon	Conference Room 402
-Baker, Lily	Legacy Center 150
-Cruz, Oscar	Meeting House 210
-Murphy, Isla	Community Hall 306
-Foster, Ethan	Grand Hall 215
-Hayes, Olivia	Media Lab 114
-Cooper, Lucas	Engineering Building 312
-Rivera, Mia	Student Center 408
-Sanchez, Julian	Art Studio 225
-Edwards, Grace	Health Center 330
-Walker, Ben	Performing Arts Hall 125
-Young, Chloe	Education Building 401
-Nelson, James	Research Center 140
-Brooks, Hannah	Alumni Hall 222
-Jenkins, Aiden	Outdoor Pavilion 318
+Deppman, Hsiu-Chuang	Peters Hall 314
+Bahar, Matthew	Rice Hall 306
+Gleditsch, Jason	Science Center A140
+O'Connor, Patrick	Peters Hall 407
+Jolie, Raechel	King Building 141G
+Mattson, Greggor	King Building 305C
+Ivantsova, Olesya	Peters Hall 217
+Linowitz, Benjamin	King Building 205B
+Crowley, Steve	Rice Hall 211
+Kumaki, Hiroko	King Building 320B
+Stamco, Madison	King Building 205
+O'Leary, James	Kohl Building 320
+Eck, Adam	King Building 125B
+Perry, Ana Cristina	Ward Art Building 125
+Emeka, Justin	Hall Annex 204
+Tessone, Natasha	Rice Hall 15
+Koleno, Jeffrey	Rice Hall 101
+Saraf, Aanchal	King Building 141E
+Eveleth, Rachel	Carnegie Building 404
+French, Darla	Science Center K230
+Johnson, Michelle	Science Center A240
+Taggart, Sam	King Building 223B
+Hotchkiss, Valerie	Mudd Center 126
+Huff, Steven	Peters Hall 219
+Handman-Lopez, Holly	Warner Center 104
+Terrazas, Bryan	Wright Laboratory 211
+Dougall, Hannah	Hall Annex 209
+Hall, Brenda	Rice Hall 316
+Barton, Emily	Peters Hall 202B (via 205)
+Warford, Noel	King Building 223A
+Belitsky, Jason	Science Center N371
+Moore, Gabriel (Gaybe)	Science Center A131
+Fenn, Mary Elizabeth	Warner Center
+Rogers, Elizabeth Lindsey	Peters Hall 201
+Pingree, Geoff	Apollo Center for Media Education & Production 19 E. College St.
+Bennett, Jane	Science Center A137
+Nguyen, Thao P.	Rice Hall 101
+Berkman, Matthew	Rice Hall 326
+Sherif, Ann	Peters Hall 312
+Inglis, Erik	Ward Art Building 132
+Garcia, Jenny	Rice Hall 207
+Trinacty, Chris	King Building 105A
+O'Dwyer, Emer	Peters Hall 318
+Frantz, Cynthia (Cindy)	Severance Hall 209
+Macomber, Andrew	Rice Hall 325
+Draper, Lucas	King Building 125A
+Owen, Robert	Wright Laboratory 210
+Taylor, Cynthia	King Building 139B
+Yu Qiao	Peters Hall G31
+Witmer, Jeffrey (Jeff)	Severance 227
+Li, Kai	Peters Hall G06
+Devine, Scott	Hall Annex 122
+Jayakumar, Manasi	Severance Hall 215
+Howard, Christopher	Science Center A243
+Vogel, Sharon	Carnegie Building 214
+Parris, Christie	King Building 305A
+Stalnaker, Jason	Wright Laboratory 213
+Liu, Fang	Peters Hall G03
+Bryan, Jennifer	Rice Hall 26
+Early, Katy	Hall Annex
+Madison Piskata, Jessica	Rice Hall 12
+Kwakye, Gunnar	Science Center K232
+Cui, Shana	Rice Hall 203
+Hoyle, Roberto	Rice Hall 108
+Bachrach, Emilia	Rice Hall 327
+Petersen, John	A.J. Lewis Center 207
+Fiskio, Jay	A.J. Lewis Center 203
+Kwakye, Leslie	Science Center A237
+Mani, Kristina	Rice Hall 230
+Hall, Anjanette	Hall Annex 215
+McCarrin, Michael	King Building 223C
+Hu, Beiyi	King 301A
+Zadorian, Amanda	Rice Hall 205
+Gutierrez Negron, Sergio	Peters Hall 408
+Godon-Decoteau, Danielle	Severance Hall 214
+Wood Newhall, Caroline	Rice Hall 308
+McMillin, Laurie	Peters Hall 115
+Iqbal, Asif	Rice Hall 106
+Goodman, Juliana	Peters Hall 125
+Iber, Laurel	Peters Hall 323
+Leydon, Rebecca	Kohl Building 324
+Oertel, Catherine	Science Center A264
+Feldman, Chanda	Peters Hall 201
+Margaris, Amy	King Building 302
+Wilmer, Elizabeth	King Building 224
+John, Daphne	King 305B
+Suarez, Harrod	Rice Hall 111
+van Neste, Aaron	A.J. Lewis Center 210
+Murathanoglu, Emir	Rice Hall 210
+Parekh, Saloni	Ward Art Building 115
+Hoffmann-Dilloway, Erika	King Building 320A
+Colley, Susan Jane	King Building 222
+Milkova, Stiliana	Peters Hall 205
+Olszens, Monica	Science Center A238
+DeProspo, Nathan	Peters Hall 128
+Forrest, David	Rice Hall 226
+Steggall, Eric	Hall Annex 203
+Neilson, Christina	Ward Art Building 104A
+Thomson-Jones, Martin	King Building 122
+James, Daniel	Warner Center 102
+Warren, Kirk	Science Center N291
+Faber, Kim	Peters Hall 205
+Flansburg, Megan	Carnegie 407
+Stoltz, Katelin	Science Center A246
+Jager, Sheila Miyoshi	Peters Hall 315
+Evangelista, Al	Warner 106
+Bowers, Bailey	Science Center N378
+Berta, Katherine	Peters Hall 201
+Wurtzel, Ellen	Rice Hall 307
+Styer, Dan	Wright Laboratory 215
+Rose, Forrest	Science Center K221
+Wright, Matthew	Hall Annex 211
+Gadsby, Meredith	Rice Hall 23
+Paz, Maximilano	Carnegie Building 407
+Hunt, Donna	Rice Hall 108
+Mrdenovich-Hill, Michelle	Science Center A265
+Paine, Tracie	Science Center A241
+Keller, Melinda	Wright Laboratory 206
+Simen, Patrick	Science Center A244
+Smith-Tran, Alicia	King Building 301A
+Freedman, Joshua	Rice Hall 208
+Abul-Magd, Zeinab	Rice Hall 301
+Ijiri, Yumi	Wright Laboratory 216
+Rabin, Shari	Rice Hall 324
+Masood, Ali	Rice Hall 232
+Solovieva, Maia	Peters Hall 218
+Jacobs Overstreet, Jamie	Venturi Art Building 166
+Hernandez, Brett	Wright Laboratory 204
+Cooper Albright, Ann	Warner Center 110
+Pathak, Swapna	A.J. Lewis Center 205
+Wallace, Sumner	Peters Hall 128
+Hyde, Timothy	Rice Hall 203
+Goldman, Aaron	Science Center A136
+Rosecrans, Jeanne	Kohl Building 309
+Roman, Michael	Venturi Art Building 161B1
+Naegele, Peter	Severance 102
+Romberg, Laura	Science Center A235
+Kim, Jiyul	Rice 316
+Gutherz, David	Peters Hall 112
+Auble, Dorothy	Science Center K125
+Skeehan, Danielle	Rice Hall 112
+Heo, Jihye	Rice Hall 210
+McCarthy, Kyle	Rice Hall 115
+Elrod, Matthew (Matt)	Science Center N278
+Wood, Richard	Ward Art Building 008
+Solomon, Claire	Peters Hall 303
+Baker, Maria	Peters Hall 301
+Smith, Cortney	Peters Hall 113
+Colley, Twila	Science Center K123
+Vermue, Ed	Mary Church Terrell Main Library; Mudd 415
+Ivantsov, Vladimir	Peters Hall 227
+Larson, Amy	Warner 100
+Harrison, DeSales	Rice Hall 126
+Senior, Matthew	Peters Hall 401
+Tucker, Tracy	Rice Hall 216
+Drop, Jennifer	Rice Hall 316
+Wilson, Travis	Severance Hall 228B
+Marshall, Joyce	Peters Hall 205
+Wu, Christine S.	Bosworth 102A
+Kresch, Evan	Rice Hall 212
+Brown, Michaela	Wright Laboratory W112
+Peterson, Charles	Rice Hall 27
+Underwood, William	Rice Hall 331
+Kielwagen, Zé	Venturi Art Building 061
+Thomson-Jones, Katherine	King Building 120D
+Paabus, Kristina	Ward Art Building 108A
+Cooper, Jan	Peters Hall 114
+Ganson, Dorit	King Building 102
+Hutchins, Kip Grosvenor	Rice Hall 10
+Tovar, Carmen (Patty)	Peters Hall 402
+Diaz Burgos, Ana Maria	Peters Hall 411
+Di Siena, Ivana	Peters Hall 407
+Kloc Babyak, Joyce	Rice Hall 329
+Sherrill, Abby	Allen Art Building
+Checkoway, Stephen	King Building 231
+Cheng, Bonnie	Ward Art Building 131
+Gossett, Ian	King Building 224
+Sturges, Pat	Carnegie Building 403
+Alexis, Yveline	Rice Hall 25
+Laskowski, Marta	Science Center K114
+Schmidt, Amanda	Carnegie Building 403A
+Moore, Michael (Mike)	Science Center K111
+Telin, Mike	Bibbins Hall 224
+Ganson, Todd	King Building 120C
+An, Grace	Peters Hall 216
+Toscano, Dominic	Peters Hall G01
+Ledbetter, Holley	Ward Art Building 126
+De Pascuale, Veronica	Science Center A263
+Reising, Amy	Wright Laboratory 110
+Hamilton, Elizabeth	Cox Administration 101
+Parsons, William (Will)	Science Center N379
+Brown-Orso, Rian	Apollo Center for Media Education & Production; 19 E. College St.
+Flood, Clara Margaret	Carnegie Building 406
+Pence, Jeffrey	Rice Hall 30
+Yuan, Ye	Peters Hall 313
+Bosch, Robert (Bob)	King Building 205A
+Miinea, Cristinel	Science Center N289
+Herron, Laura	Rice Hall 332
+Pike, Alexandra	Science Center K218
+Hobbs, Benjamin	A.J. Lewis Center 208
+Wilson, Alexander	King Building 204
+Kondo, Sachiko	Peters Hall G02
+Wilburn, Andrew (Drew)	King 105B
+Kauff, R	Venturi Art Building 166A
+Shakir, Ali	Science Center K102
+Parkin, Michael	Cox Administration 101
+Arnett, Jess	A.J. Lewis Center 206
+Hilpman, Evan	Science Center A139
+Vujacic, Veljko	King Building 301B
+Benjamin, Jeremy	Hall Annex 207
+Bujalski, Nicholas	Rice Hall 310
+Sperling, Joshua	Lewis Annex 206
+Long, Megan Kaes	Kohl Buildng 334
+Haugen, Jason D.	Rice 118
+Kerchner, Jody	Kohl Building 330
+Day, William Patrick	Rice Hall 124
+Black-Parsons, Wendy	King Building 139
+Arrigoni, Trevor	King Building 220A
+Blatnik, Monica	Science Center K200C
+Peiris, M. Udara	Rice Hall 214
+Hogan, Mary	King Building 139A
+Sinwald, Stacey	Severance Hall 208
+Gibson, Kristi	Science Center A261
+Darling, Nancy	Severance Hall 213
+Fraser, Jennifer	Kohl Building 336
+Hodes, Amanda	Rice Hall 110
+Roland, Julien P.	Peters Hall 323
+Brehm, Maggie	Rice Hall 233
+Sundt, Hal	Peters Hall 125
+Pineda, Baron	King Building 320C
+Cerankowski, KJ	King Building 141
+Verosky, Sara	Severance Hall 211
+Natt, Joseph P.	Eric Baker Nord Performing Arts Annex Room 104C
+Shammin, Md Rumi	A.J. Lewis Center 209
+Peters, Maureen	Science Center K210
+Mitchell, Pablo	Rice Hall 314
+Page, F. Zeb	Carnegie Building 405
+Christensen, Julia	Venturi Art Building 161A
+Alhawamdeh, Shatha	Peters Hall 304
+Zhou, Cui	Peters Hall 314
+Schiff, Jade	Rice Hall 206
+Ormand, Kirk	King Building 105C
+Sammartino, Annemarie	Rice Hall 317
+Woods, Kevin	King Building 220B
+Perez, Gina	King Building 141D
+Parkhurst, Bryan	Robertson Hall 115
+Chapman, Cynthia (Cindy)	Rice Hall 330
+Bugher, David	Scene Shop
+FitzGerald, Stephen	Wright Laboratory 217
+Lengyel, Dave	Wright Laboratory 112
+Patten, Heath	Terrell Library 303 (Digital Imaging Lab); Ward Art Building 108 and 208
+Merport Quinones, Carmen	King Building 141E
+Feldman, Molly Q	Rice Hall 14
+Totton, Rebecca	Severance Hall 206
+Allen, Taylor	Science Center K200A
+Snyder, Pam	Peters Hall G27
+Mehta, Manish	Science Center N276
+Tritt, Gavin	Peters Hall 103
+Cheung, Ron	Rice Hall 229
+Maxson, Eileen	Venturi Art Building 161A
+Barclay, Kari	Hall Annex 207
+deWinstanley, Patty	Severance Hall 101
+Smith, Leonard V.	Rice Hall 18
+Koestler, Jacob	Venturi Art Building 62B
+Flaharty, Chris	Hall Annex 121
+Omori, Naoko	Peters Hall G09
+Carlson-Tarantowski, Laura	Hall Annex 208
+Yoon, Yeorae	Ward Art Building 131
+Duca, John V.	Rice Hall 223
+Opoku, Darko	Rice Hall 9
+Alexander, Dale	Nord Performing Arts Annex
+Romano, Renee	Rice Hall 314
+Nguyen-Duy, Pipo	Venturi Art Building 162A
+Kaatz, Joan	King Building 105
+Wang, Emily	King Building 223D
+Imami, Ledina	Severance Hall 210
+Roles, Angela (Angie)	Science Center A134
+Marx, Chris	King Building 220C
+Saylor, Rachel A.	Science Center N372
+Johns, Gillian	Rice Hall 28
+Faber, Sebastiaan	Peters Hall 404
+Schuster, Sarah	Ward Art Building 115
+Rarey, Matthew	Ward Art Building 104
+Calcut, Jack	King Building 202
+Scudder, Jillian	Wright Laboratory 212
+Levett, Anna	Peters Hall G34
+Lordan, Anna	Peters Hall 228
+Howat, Adam J.	Rice Hall 213
+Pike, Andrew	Science Center A130
+Chen, Shuming	Science Center N381
+Lee, Benjamin (Ben)	King 124
+Baudot, Laura	Cox Administration 101
+Ramos, Alysia	Warner Center 112
+Encalada Egusquiza, Yorki J.	Peters Hall 403
+Levinson, Howard	King Building 139C
+Merck, Clinton	Severance 212
+Jackson Smith, Caroline	Warner Center 100A
+Bratton, Polly	AJ Lewis Center
+Kato, Mimi	Ward Art Building 111
+Presto, Thomas	Warner Center
+Blecher, Marc	Peters G33
+Ryno, Lisa	Science Center N273
+Choudhury, Rishad	Rice Hall 315
+Quartet, Verona	Conservatory Central Unit 36
+Hyman, Wendy Beth	Rice Hall 113
+Lin, Eric	Rice Hall 215
+Radomsky, Rebecca (Becca)	Science Center N376
+Hopkins, Thomas	Peters 124
+Sandberg, Eve	Rice Hall 217

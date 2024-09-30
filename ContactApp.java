@@ -39,7 +39,11 @@ public class ContactApp {
                 }
             }
             Contact temporary = contacts.remove(unsortedindex);
-            contacts.add(unsortedindex, contacts.get(earliestindex-1));
+            if (unsortedindex < earliestindex) {
+                contacts.add(unsortedindex, contacts.get(earliestindex-1));
+            } else {
+                contacts.add(unsortedindex, contacts.get(earliestindex));
+            }
             contacts.remove(earliestindex);
             contacts.add(earliestindex, temporary);
             unsortedindex++;

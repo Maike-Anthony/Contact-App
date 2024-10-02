@@ -26,30 +26,21 @@ public class ContactApp {
     }
 
     private void sortcontacts() {
-        String earliestname = "";
+        int size = contacts.size();
         int earliestindex = 0;
-        int unsortedindex = 0;
-        while (true) {
-            for (int i = unsortedindex; i < contacts.size(); i++) {
-                if (i == unsortedindex) {
-                    earliestname = contacts.get(i).getName().toLowerCase();
-                } else if (earliestname.compareTo(contacts.get(i).getName().toLowerCase()) > 0) {
-                    earliestname = contacts.get(i).getName().toLowerCase();
+        for (int i = 0; i < size; i++) {
+            for (int j = i; j < size; j++) {
+                if (j == i) {
                     earliestindex = i;
+                } else {
+                    String earliestname = contacts.get(earliestindex).getName().toLowerCase();
+                    String curname = contacts.get(j).getName().toLowerCase(); 
+                    if (curname.compareTo(earliestname) < 0) {
+                        earliestindex = j;
+                    }
                 }
             }
-            Contact temporary = contacts.remove(unsortedindex);
-            if (unsortedindex < earliestindex) {
-                contacts.add(unsortedindex, contacts.get(earliestindex-1));
-            } else {
-                contacts.add(unsortedindex, contacts.get(earliestindex));
-            }
-            contacts.remove(earliestindex);
-            contacts.add(earliestindex, temporary);
-            unsortedindex++;
-            if (unsortedindex == contacts.size() - 1) {
-                break;
-            }
+            contacts.swap(earliestindex, i);
         }
     }
 
@@ -76,12 +67,12 @@ public class ContactApp {
         Scanner user = new Scanner(System.in);
         while (true) {
             System.out.println("What name would you like to search for? (Type exit to quit) ");
-            String name = user.next().toLowerCase();
+            String name = user.next();
             if (name.toLowerCase().equals("exit")) {
                 user.close();
                 System.exit(0);
             }
-            Contact answer = app.binarysearch(name);
+            Contact answer = app.binarysearch(name.toLowerCase());
             if (answer == null) {
                 System.out.println("Sorry, but we could not find the name: " + name);
                 System.out.println();

@@ -1,4 +1,5 @@
 import java.util.AbstractList;
+import java.lang.Math;
 
 public class MyArrayList<T> extends AbstractList<T> {
     private T[] items;
@@ -20,16 +21,7 @@ public class MyArrayList<T> extends AbstractList<T> {
     }
 
     public int size() {
-        int s = 0;
-        for (T item : this.items) {
-            if (item != null) {
-                s++;
-            }
-            else {
-                break;
-            }
-        }
-        return s;
+        return this.size;
     }
 
     public T get(int index) {
@@ -109,5 +101,26 @@ public class MyArrayList<T> extends AbstractList<T> {
             this.items[i] = null;
         }
         this.size = 0;
+    }
+
+    public void swap(int x, int y) {
+        if (x != y) {
+            int min = Math.min(x, y);
+            int max = Math.max(x, y);
+            @SuppressWarnings("unchecked")
+            T[] temp = (T[]) new Object[this.items.length];
+            for (int i = 0; i < min; i++) {
+                temp[i] = this.get(i);
+            }
+            temp[min] = this.get(max);
+            for (int j = min + 1; j < max; j++) {
+                temp[j] = this.get(j);
+            }
+            temp[max] = this.get(min);
+            for (int k = max + 1; k < this.size; k++) {
+                temp[k] = this.get(k);
+            }
+            this.items = temp;
+        }
     }
 }

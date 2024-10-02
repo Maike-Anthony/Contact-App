@@ -104,6 +104,9 @@ public class MyArrayList<T> extends AbstractList<T> {
     }
 
     public void swap(int x, int y) {
+        if (Math.min(x, y) < 0 || Math.max(x, y) > this.size - 1) {
+            throw new IndexOutOfBoundsException("The indexes are incorrect. Please type ones between 0 and " + (this.size -1) + ".");
+        }
         if (x != y) {
             int min = Math.min(x, y);
             int max = Math.max(x, y);
